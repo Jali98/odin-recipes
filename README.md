@@ -1,2 +1,3 @@
 # odin-recipes
-My Odin Project
+
+My Odin recipes!
